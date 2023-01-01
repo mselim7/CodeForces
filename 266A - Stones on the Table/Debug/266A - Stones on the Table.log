@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\CodeForces\CodeForces\266A - Stones on the Table\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\CodeForces\CodeForces\266A - Stones on the Table\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  266A - Stones on the Table.vcxproj -> D:\CodeForces\CodeForces\266A - Stones on the Table\Debug\266A - Stones on the Table.exe
