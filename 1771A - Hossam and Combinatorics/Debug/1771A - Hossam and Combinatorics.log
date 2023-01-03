@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\CodeForces\CodeForces\1771A - Hossam and Combinatorics\Source.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+D:\CodeForces\CodeForces\1771A - Hossam and Combinatorics\Source.cpp(20,33): warning C4018: '>': signed/unsigned mismatch
+  1771A - Hossam and Combinatorics.vcxproj -> D:\CodeForces\CodeForces\1771A - Hossam and Combinatorics\Debug\1771A - Hossam and Combinatorics.exe
