@@ -1,0 +1,3 @@
+﻿  NightAtMuesum.cpp
+D:\PROJECTS\C++\NightAtMuesum\NightAtMuesum\NightAtMuesum.cpp(15): warning C4715: 'getLetternI': not all control paths return a value
+  NightAtMuesum.vcxproj -> D:\PROJECTS\C++\NightAtMuesum\x64\Debug\NightAtMuesum.exe
